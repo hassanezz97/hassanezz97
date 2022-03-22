@@ -15,7 +15,7 @@
 <div dir="auto">
 <details>
  <summary>GitHub Stats</summary>
-<p dir="auto"><a href="https://github.com/hassanezz97/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hassanezz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt=" github stats"  style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/hassanezz97/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hassanezz97&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt=" github stats"  style="max-width: 100%;"></a></p>
 </details>
 </div>
 
